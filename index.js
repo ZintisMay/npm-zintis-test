@@ -1,0 +1,1 @@
+module.exports = function(){console.log("you have run the npm-zintis-test index.js file, congrats!")}
